@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: enhancement
 assignees: micolla
-projects: 1
+projects: TaskOrganizer/TaskServer/projects/1
 
 ---
 
